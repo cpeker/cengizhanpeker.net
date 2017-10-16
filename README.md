@@ -1,2 +1,3 @@
 # cengizhanpeker.net
-Git test
+Git kullanımını test etmek amacıyla kendi sitemi yüklediğim repository. 
+ 
